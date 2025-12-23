@@ -101,3 +101,7 @@ In a different terminal
     └── resources/
         └── application.properties
 
+## License
+
+This project is open for educational and experimental use. Feel free to fork and extend!
+
